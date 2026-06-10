@@ -1,0 +1,6 @@
+{
+  "name": "Hinduss",
+  "description": "Hinduss is a modern Hindu wisdom, scripture reading, meditation, and life-learning platform inspired by modern premium aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

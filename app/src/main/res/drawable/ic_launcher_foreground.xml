@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Spiritual Glow Zone -->
+    <path
+        android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"
+        android:fillColor="#22FFE082" />
+        
+    <!-- Main Sacred Diya Oil Basin -->
+    <path
+        android:pathData="M24,66 C24,78 34,84 54,84 C74,84 84,78 84,66 C84,66 74,74 54,74 C34,74 24,66 24,66 Z"
+        android:fillColor="#FFD54F" />
+        
+    <!-- Outer Golden shadow base overlay -->
+    <path
+        android:pathData="M34,74 C34,84 42,86 54,86 C66,86 74,84 74,74 C74,77 64,80 54,80 C44,80 34,77 34,74 Z"
+        android:fillColor="#FFB300" />
+        
+    <!-- Rising Flame of Divine Light (Prana) -->
+    <path
+        android:pathData="M54,68 C44,58 40,46 54,20 C68,46 64,58 54,68 Z"
+        android:fillColor="#FF7043" />
+        
+    <!-- Core Flame (Jyoti) -->
+    <path
+        android:pathData="M54,64 C48,56 45,48 54,30 C63,48 60,56 54,64 Z"
+        android:fillColor="#FFF176" />
+        
+    <!-- Bindu Point -->
+    <path
+        android:pathData="M54,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"
+        android:fillColor="#FFF59D" />
+</vector>
